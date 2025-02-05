@@ -1,0 +1,22 @@
+INSERT INTO book (title, author, isbn, published_Date)
+VALUES
+    ('Don Quixote', 'Miguel de Cervantes', '978-0060934347', '1605-01-16'),
+    ('Alice''s Adventures in Wonderland', 'Lewis Carroll', '978-0486275437', '1865-11-26'),
+    ('The Adventures of Huckleberry Finn', 'Mark Twain', '978-0486280615', '1884-12-10'),
+    ('Pride and Prejudice', 'Jane Austen', '978-1503290563', '1813-01-28'),
+    ('Wuthering Heights', 'Emily Brontë', '978-1505313109', '1847-12-01'),
+    ('Jane Eyre', 'Charlotte Brontë', '978-1503278196', '1847-10-16'),
+    ('Moby Dick', 'Herman Melville', '978-1503280786', '1851-11-14'),
+    ('The Scarlet Letter', 'Nathaniel Hawthorne', '978-1500759120', '1850-03-16'),
+    ('Gulliver''s Travels', 'Jonathan Swift', '978-1503215678', '1726-10-28'),
+    ('Treasure Island', 'Robert Louis Stevenson', '978-1505297405', '1883-11-14'),
+    ('Harry Potter and the Sorcerer''s Stone', 'J.K. Rowling', '978-0590353427', '1997-06-26'),
+    ('The Hitchhiker''s Guide to the Galaxy', 'Douglas Adams', '978-0345391803', '1979-10-12'),
+    ('To Kill a Mockingbird', 'Harper Lee', '978-0060935467', '1960-07-11'),
+    ('1984', 'George Orwell', '978-0451524935', '1949-06-08'),
+    ('The Great Gatsby', 'F. Scott Fitzgerald', '978-0743273565', '1925-04-10'),
+    ('The Catcher in the Rye', 'J.D. Salinger', '978-0316769488', '1951-07-16'),
+    ('The Lord of the Rings', 'J.R.R. Tolkien', '978-0544003415', '1954-07-29'),
+    ('The Chronicles of Narnia', 'C.S. Lewis', '978-0066238500', '1950-10-16'),
+    ('The Da Vinci Code', 'Dan Brown', '978-0307474278', '2003-03-18'),
+    ('The Hunger Games', 'Suzanne Collins', '978-0439023481', '2008-09-14');
