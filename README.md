@@ -45,7 +45,7 @@ Before setting up the application, ensure you have the following installed:
     ```
 3. Run the Application:
   ```bash
-  mvn javafx:run or you can run it from the main clas LibraryApplication.java
+  mvn javafx:run or you can run it from the main class LibraryApplication.java
    ```
 The JavaFX application window will launch, allowing interaction with the library system.
 
