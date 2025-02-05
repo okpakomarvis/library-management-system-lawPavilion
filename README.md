@@ -1,7 +1,7 @@
 # Library Management System LawPavilion
 
 ## Introduction
-The Library Management System is a comprehensive application that enables users to add, view, edit, search, and delete book records. It comprises a JavaFX-based frontend for the user interface and a Spring Boot backend to handle business logic and data storage.
+The Library Management System is a comprehensive application that enables users to add, view, edit, search, and delete book records. It comprises a JavaFX-based,SceneBuilder frontend for the user interface and a Spring Boot backend to handle business logic and data storage.
 
 ### Features
 * Add Books: Users can add new books to the library collection.
